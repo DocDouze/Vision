@@ -1,0 +1,2 @@
+usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/aubailly/Bureau/Vision/TP2/ws_cam/devel -DCMAKE_INSTALL_PREFIX=/home/aubailly/Bureau/Vision/TP2/ws_cam/install -G Unix Makefiles
